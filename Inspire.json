@@ -331,82 +331,69 @@
       },
 	
 	
-	 
-	 {
+	  {
        "group_index": "8", 
-       "group_name": "MINIMAL", 
-       "group_icon":"http://dopewallpapers.website/codex_dopewall_upload/upload/category/1691-2019-02-10.jpg", 
-       "wallpapers": 
-      [
-          {
-           "wallpaper_index":"1",
-           "wallpaper_name":"MINIMAL 01",
-           "wallpaper_site_name":"DOPEWALLPAPERS",
-           "wallpaper_site_url":"dopewallpapers.website",
-           "wallpaper_url":"http://dopewallpapers.website/codex_dopewall_upload/upload/14908_20.jpg"
-          }
-		  ,
-		  {
-           "wallpaper_index":"2",
-           "wallpaper_name":"MINIMAL 02",
-           "wallpaper_site_name":"DOPEWALLPAPERS",
-           "wallpaper_site_url":"dopewallpapers.website",
-           "wallpaper_url":"http://dopewallpapers.website/codex_dopewall_upload/upload/45458_21.jpg"
-          }
-          ,
-          {
-           "wallpaper_index":"3",
-           "wallpaper_name":"MINIMAL 03",
-           "wallpaper_site_name":"DOPEWALLPAPERS",
-           "wallpaper_site_url":"dopewallpapers.website",
-           "wallpaper_url":"http://dopewallpapers.website/codex_dopewall_upload/upload/45418_2016%20-%203.jpg"
-          }
-          ,
-          {
-           "wallpaper_index":"4",
-           "wallpaper_name":"MINIMAL 04",
-           "wallpaper_site_name":"DOPEWALLPAPERS",
-           "wallpaper_site_url":"dopewallpapers.website",
-           "wallpaper_url":"http://dopewallpapers.website/codex_dopewall_upload/upload/63718_2016%20-%202.jpg"
-          }
-          ,
-          {
-           "wallpaper_index":"5",
-           "wallpaper_name":"MINIMAL 05",
-           "wallpaper_site_name":"DOPEWALLPAPERS",
-           "wallpaper_site_url":"dopewallpapers.website",
-           "wallpaper_url":"http://dopewallpapers.website/codex_dopewall_upload/upload/48639_2016%20-%201.jpg"
-          }
-          ,
-          {
-           "wallpaper_index":"6",
-           "wallpaper_name":"MINIMAL 06",
-           "wallpaper_site_name":"DOPEWALLPAPERS",
-           "wallpaper_site_url":"dopewallpapers.website",
-           "wallpaper_url":"http://dopewallpapers.website/codex_dopewall_upload/upload/75438_17%20-%203.png"
-          }
-          ,
-          {
-           "wallpaper_index":"7",
-           "wallpaper_name":"MINIMAL 07",
-           "wallpaper_site_name":"DOPEWALLPAPERS",
-           "wallpaper_site_url":"dopewallpapers.website",
-           "wallpaper_url":"http://dopewallpapers.website/codex_dopewall_upload/upload/96482_16%20-%203.png"
-          }
-          ,{
-           "wallpaper_index":"8",
-           "wallpaper_name":"MINIMAL 08",
-           "wallpaper_site_name":"DOPEWALLPAPERS",
-           "wallpaper_site_url":"dopewallpapers.website",
-           "wallpaper_url":"http://dopewallpapers.website/codex_dopewall_upload/upload/22285_16%20-%201.png"
-          }
-          ,{
-           "wallpaper_index":"9",
-           "wallpaper_name":"MINIMAL 09",
-           "wallpaper_site_name":"DOPEWALLPAPERS",
-           "wallpaper_site_url":"dopewallpapers.website",
-           "wallpaper_url":"http://dopewallpapers.website/codex_dopewall_upload/upload/20089_@Venkatesh_Sompari_Walls@_01.jpg"
-          }
-      ]
-      }
+       "group_name": "Love", 
+       "group_icon":"", 
+       "wallpapers":  [
+          {"wallpaper_index":"01", "wallpaper_name":"Love", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/HpM6VBN/Love-1.jpg" }, 
+          {"wallpaper_index":"02", "wallpaper_name":"Love", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/K2M3vMK/Love-2.jpg" },
+		  {"wallpaper_index":"03", "wallpaper_name":"Love", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/P5b3ZCZ/Love-3.jpg" }, 
+          {"wallpaper_index":"04", "wallpaper_name":"Love", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/kGmn3RZ/Love-4.jpg" },
+	      {"wallpaper_index":"05", "wallpaper_name":"Love", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/7pWL0ZR/Love-5.jpg" }, 
+          {"wallpaper_index":"06", "wallpaper_name":"Love", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/RHtVTGC/Love-6.jpg" }
+	   
+	  ]
+      },
+	  
+	  {
+       "group_index": "9", 
+       "group_name": "Minimal Motivational", 
+       "group_icon":"", 
+       "wallpapers":  [
+          {"wallpaper_index":"01", "wallpaper_name":"Minimal Motivational", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/jrL4ddf/minimal-1.jpg" }, 
+          {"wallpaper_index":"02", "wallpaper_name":"Minimal Motivational", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/0G3Gz2H/minimal-2.jpg" }, 
+	      {"wallpaper_index":"03", "wallpaper_name":"Minimal Motivational", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/kMLbYTt/minimal-3.jpg" }, 
+	      {"wallpaper_index":"04", "wallpaper_name":"Minimal Motivational", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/JvBrHB4/minimal-4.jpg" }, 
+	      {"wallpaper_index":"05", "wallpaper_name":"Minimal Motivational", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/bvsT64c/minimal-5.jpg" }
+	  ]
+      },
+	  
+	  {
+       "group_index": "10", 
+       "group_name": "Other", 
+       "group_icon":"", 
+       "wallpapers":  [
+          {"wallpaper_index":"01", "wallpaper_name":"Other", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/KLYKB0x/Other-1.jpg" }, 
+          {"wallpaper_index":"02", "wallpaper_name":"Other", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/m0yz38s/Other-2.jpg" }, 
+	      {"wallpaper_index":"03", "wallpaper_name":"Other", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/qCXrXJD/Other-3.jpg" }, 
+	      {"wallpaper_index":"04", "wallpaper_name":"Other", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/dcdd1ZY/Other-4.jpg" }, 
+          {"wallpaper_index":"05", "wallpaper_name":"Other", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/SKvxfdn/Other-5.jpg" }, 
+	      {"wallpaper_index":"06", "wallpaper_name":"Other", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/k3X2Mrs/Other-6.jpg" }, 
+	      {"wallpaper_index":"07", "wallpaper_name":"Other", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/tzPmJhP/Other-7.jpg" }, 
+          {"wallpaper_index":"08", "wallpaper_name":"Other", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/7QWdgvR/Other-8.jpg" }
+
+	  ]
+      },
+	  
+	  {
+       "group_index": "11", 
+       "group_name": "Sad", 
+       "group_icon":"", 
+       "wallpapers":  [
+          {"wallpaper_index":"01", "wallpaper_name":"Sad", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/Nt3tF22/Sad-1.jpg" }, 
+          {"wallpaper_index":"02", "wallpaper_name":"Sad", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/FKcttWD/Sad-2.jpg" }
+	  ]
+      },
+	  
+	  {
+       "group_index": "12", 
+       "group_name": "Saying by Famous People", 
+       "group_icon":"", 
+       "wallpapers":  [
+          {"wallpaper_index":"02", "wallpaper_name":"Saying by Famous People", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/JQS6NY4/Saying-2.jpg" },
+          {"wallpaper_index":"02", "wallpaper_name":"Saying by Famous People", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/CVjjSLt/Saying-1.jpg" }
+	  ]
+      }	
+	
 ]

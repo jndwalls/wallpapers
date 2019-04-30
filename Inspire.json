@@ -198,33 +198,33 @@
 },
 	  
 {
-       "group_index": "2", 
-       "group_name": "Attitude", 
-       "group_icon":"", 
-       "wallpapers":  [
-        {"wallpaper_index":"01", "wallpaper_name":"Attitude", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/MVYQ81M/respected-opinions.jpg" },  
-        {"wallpaper_index":"02", "wallpaper_name":"Attitude", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/hWfSmt3/quotes-inspiration.jpg" },
-		{"wallpaper_index":"03", "wallpaper_name":"Attitude", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/mcyyjX2/quotes-10.jpg" },
-		{"wallpaper_index":"04", "wallpaper_name":"Attitude", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/S3X9XWY/quote-53.jpg" },
-		{"wallpaper_index":"05", "wallpaper_name":"Attitude", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/HGGFcdj/quote-48.jpg" },
-		{"wallpaper_index":"06", "wallpaper_name":"Attitude", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/d0z9bpm/messi.jpg" },
-		{"wallpaper_index":"07", "wallpaper_name":"Attitude", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/3rjGyBT/001-23.jpg" },
-		{"wallpaper_index":"08", "wallpaper_name":"Attitude", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/02s0y01/001-35.jpg" }
-	  ]
-      },
+"group_index": "2", 
+"group_name": "Attitude", 
+"group_icon":"", 
+"wallpapers":  [
+{"wallpaper_index":"01", "wallpaper_name":"Attitude", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/MVYQ81M/respected-opinions.jpg" },  
+{"wallpaper_index":"02", "wallpaper_name":"Attitude", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/hWfSmt3/quotes-inspiration.jpg" },
+{"wallpaper_index":"03", "wallpaper_name":"Attitude", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/mcyyjX2/quotes-10.jpg" },
+{"wallpaper_index":"04", "wallpaper_name":"Attitude", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/S3X9XWY/quote-53.jpg" },
+{"wallpaper_index":"05", "wallpaper_name":"Attitude", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/HGGFcdj/quote-48.jpg" },
+{"wallpaper_index":"06", "wallpaper_name":"Attitude", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/d0z9bpm/messi.jpg" },
+{"wallpaper_index":"07", "wallpaper_name":"Attitude", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/3rjGyBT/001-23.jpg" },
+{"wallpaper_index":"08", "wallpaper_name":"Attitude", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/02s0y01/001-35.jpg" }
+]
+},
 	  
-	  {
-       "group_index": "3", 
-       "group_name": "Breakup Overcome", 
-       "group_icon":"", 
-       "wallpapers":  [
-         {"wallpaper_index":"01", "wallpaper_name":"Breakup Overcome", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/869hPwv/a0a6a5256faebb730c45bd8d3af27763.jpg" }, 
-		 {"wallpaper_index":"02", "wallpaper_name":"Breakup Overcome", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/MMDxJ9h/a96f3efeb745fd26e32642119fe99b82.jpg" }, 
-	     {"wallpaper_index":"03", "wallpaper_name":"Breakup Overcome", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/M9FB97w/be-fine.jpg" }, 
-	     {"wallpaper_index":"04", "wallpaper_name":"Breakup Overcome", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/WW2fwWb/quotes-4.jpg" }, 
-	     {"wallpaper_index":"05", "wallpaper_name":"Breakup Overcome", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/PMtLvbh/quotes-6.jpg" } 	 
-	 ]
-	 },	  
+{
+"group_index": "3", 
+"group_name": "Breakup Overcome", 
+"group_icon":"", 
+"wallpapers":  [
+{"wallpaper_index":"01", "wallpaper_name":"Breakup Overcome", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/869hPwv/a0a6a5256faebb730c45bd8d3af27763.jpg" }, 
+{"wallpaper_index":"02", "wallpaper_name":"Breakup Overcome", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/MMDxJ9h/a96f3efeb745fd26e32642119fe99b82.jpg" }, 
+{"wallpaper_index":"03", "wallpaper_name":"Breakup Overcome", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/M9FB97w/be-fine.jpg" }, 
+{"wallpaper_index":"04", "wallpaper_name":"Breakup Overcome", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/WW2fwWb/quotes-4.jpg" }, 
+{"wallpaper_index":"05", "wallpaper_name":"Breakup Overcome", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/PMtLvbh/quotes-6.jpg" } 	 
+]
+},	  
 	  
 	  {
        "group_index": "4", 

@@ -1,7 +1,7 @@
 [
       {
        "group_index": "1", 
-       "group_name": "Attitude", 
+       "group_name": "Inspire Walls", 
        "group_icon":"", 
        "wallpapers":  [
           
@@ -196,591 +196,306 @@
       ]
       },
 	  
-	  
 	  {
        "group_index": "2", 
+       "group_name": "Attitude", 
+       "group_icon":"", 
+       "wallpapers":  [
+        {"wallpaper_index":"01", "wallpaper_name":"Attitude", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/MVYQ81M/respected-opinions.jpg" },  
+        {"wallpaper_index":"02", "wallpaper_name":"Attitude", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/hWfSmt3/quotes-inspiration.jpg" },
+		{"wallpaper_index":"03", "wallpaper_name":"Attitude", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/mcyyjX2/quotes-10.jpg" },
+		{"wallpaper_index":"04", "wallpaper_name":"Attitude", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/S3X9XWY/quote-53.jpg" },
+		{"wallpaper_index":"05", "wallpaper_name":"Attitude", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/HGGFcdj/quote-48.jpg" },
+		{"wallpaper_index":"06", "wallpaper_name":"Attitude", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/d0z9bpm/messi.jpg" },
+		{"wallpaper_index":"07", "wallpaper_name":"Attitude", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/3rjGyBT/001-23.jpg" },
+		{"wallpaper_index":"08", "wallpaper_name":"Attitude", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/02s0y01/001-35.jpg" }
+	  ]
+      },
+	  
+	  {
+       "group_index": "3", 
        "group_name": "Breakup Overcome", 
        "group_icon":"", 
        "wallpapers":  [
-          {
-           "wallpaper_index":"1",
-           "wallpaper_name":"",
-           "wallpaper_site_name":"Google",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":""
-          },
-		  {
-           "wallpaper_index":"1",
-           "wallpaper_name":"",
-           "wallpaper_site_name":"Google.com",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":""
-          },
-		  {
-           "wallpaper_index":"1",
-           "wallpaper_name":"",
-           "wallpaper_site_name":"Google.com",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":""
-          }
-      ]
-      },
-	  
-	  
-	  {
-       "group_index": "3", 
-       "group_name": "Facts", 
-       "group_icon":"", 
-       "wallpapers":  [
-          {
-           "wallpaper_index":"1",
-           "wallpaper_name":"",
-           "wallpaper_site_name":"Google",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":""
-          },
-		  {
-           "wallpaper_index":"1",
-           "wallpaper_name":"",
-           "wallpaper_site_name":"Google.com",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":""
-          },
-		  {
-           "wallpaper_index":"1",
-           "wallpaper_name":"",
-           "wallpaper_site_name":"Google.com",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":""
-          }
-      ]
-      },
-	  
-	  {
-       "group_index": "3", 
-       "group_name": "Fitness Motivational", 
-       "group_icon":"", 
-       "wallpapers":  [
-          {
-           "wallpaper_index":"1",
-           "wallpaper_name":"Fitness",
-           "wallpaper_site_name":"Google",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":""
-          },
-		  {
-           "wallpaper_index":"1",
-           "wallpaper_name":"Fitness",
-           "wallpaper_site_name":"Google.com",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":""
-          },
-		  {
-           "wallpaper_index":"1",
-           "wallpaper_name":"Fitness",
-           "wallpaper_site_name":"Google.com",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":""
-          }
-      ]
-      },
+         {"wallpaper_index":"01", "wallpaper_name":"Breakup Overcome", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/869hPwv/a0a6a5256faebb730c45bd8d3af27763.jpg" }, 
+		 {"wallpaper_index":"02", "wallpaper_name":"Breakup Overcome", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/MMDxJ9h/a96f3efeb745fd26e32642119fe99b82.jpg" }, 
+	     {"wallpaper_index":"03", "wallpaper_name":"Breakup Overcome", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/M9FB97w/be-fine.jpg" }, 
+	     {"wallpaper_index":"04", "wallpaper_name":"Breakup Overcome", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/WW2fwWb/quotes-4.jpg" }, 
+	     {"wallpaper_index":"05", "wallpaper_name":"Breakup Overcome", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/PMtLvbh/quotes-6.jpg" } 	 
+	 ]
+	 },	  
 	  
 	  {
        "group_index": "4", 
+       "group_name": "Facts", 
+       "group_icon":"", 
+       "wallpapers":  [
+         {"wallpaper_index":"01", "wallpaper_name":"Facts", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/gDdDkLW/Facts-1.jpg" }, 
+         {"wallpaper_index":"02", "wallpaper_name":"Facts", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/bJ4bD8y/Facts-2.jpg" }, 
+         {"wallpaper_index":"03", "wallpaper_name":"Facts", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/jL7P4fK/Facts-3.jpg" },
+		 {"wallpaper_index":"04", "wallpaper_name":"Facts", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/qBt8SJm/Facts-4.jpg" }, 
+         {"wallpaper_index":"05", "wallpaper_name":"Facts", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/TLqt8xq/Facts-5.jpg" }, 
+         {"wallpaper_index":"06", "wallpaper_name":"Facts", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/LrwCgwZ/Facts-6.jpg" },
+		 {"wallpaper_index":"07", "wallpaper_name":"Facts", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/Xjj27hG/Facts-7.jpg" }, 
+         {"wallpaper_index":"08", "wallpaper_name":"Facts", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/hR47C13/Facts-8.jpg" }, 
+         {"wallpaper_index":"09", "wallpaper_name":"Facts", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/tBZVWhQ/Facts-9.jpg" },
+		 {"wallpaper_index":"10", "wallpaper_name":"Facts", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/Rb1D9fP/Facts-10.jpg" }, 
+         {"wallpaper_index":"11", "wallpaper_name":"Facts", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/kDDkr7h/Facts-11.jpg" }, 
+         {"wallpaper_index":"12", "wallpaper_name":"Facts", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/YL4kGS5/Facts-12.jpg" },
+		 {"wallpaper_index":"13", "wallpaper_name":"Facts", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/wsyvTG6/Facts-13.jpg" }, 
+         {"wallpaper_index":"14", "wallpaper_name":"Facts", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/Fn5hjd8/Facts-14.jpg" }, 
+         {"wallpaper_index":"15", "wallpaper_name":"Facts", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/vVcprQx/Facts-15.jpg" },
+		 {"wallpaper_index":"16", "wallpaper_name":"Facts", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/tQNRyVd/Facts-16.jpg" }, 
+         {"wallpaper_index":"17", "wallpaper_name":"Facts", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/Gpp44rG/Facts-17.jpg" }, 
+         {"wallpaper_index":"18", "wallpaper_name":"Facts", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/Tc2M9Cx/Facts-18.jpg" },
+		 {"wallpaper_index":"19", "wallpaper_name":"Facts", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/k3bb5gq/Facts-19.jpg" }, 
+         {"wallpaper_index":"20", "wallpaper_name":"Facts", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/zfCGStM/Facts-20.jpg" }, 
+         {"wallpaper_index":"21", "wallpaper_name":"Facts", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/DY7380k/Facts-21.jpg" },
+		 {"wallpaper_index":"22", "wallpaper_name":"Facts", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/rvnD259/Facts-22.jpg" }, 
+         {"wallpaper_index":"23", "wallpaper_name":"Facts", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/gT5pdmk/Facts-23.jpg" }, 
+         {"wallpaper_index":"24", "wallpaper_name":"Facts", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/8s1NNDd/Facts-24.jpg" },
+		 {"wallpaper_index":"25", "wallpaper_name":"Facts", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/p0TgrMK/Facts-25.jpg" }, 
+         {"wallpaper_index":"26", "wallpaper_name":"Facts", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/Fgw1FSw/Facts-26.jpg" }, 
+         {"wallpaper_index":"27", "wallpaper_name":"Facts", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/ZTs856v/Facts-27.jpg" },
+		 {"wallpaper_index":"28", "wallpaper_name":"Facts", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/5vvZnw1/Facts-28.jpg" }, 
+         {"wallpaper_index":"29", "wallpaper_name":"Facts", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/MZKvJ8K/Facts-29.jpg" }, 
+         {"wallpaper_index":"30", "wallpaper_name":"Facts", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/j6wqdVH/Facts-30.jpg" },
+		 {"wallpaper_index":"31", "wallpaper_name":"Facts", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/9ZmV0Gz/Facts-31.jpg" }, 
+         {"wallpaper_index":"32", "wallpaper_name":"Facts", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/5kMgLFx/Facts-32.jpg" }, 
+         {"wallpaper_index":"33", "wallpaper_name":"Facts", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/ZVd6XB9/Facts-33.jpg" }
+
+	 ]
+      },	  
+	  	 
+	  {
+       "group_index": "5", 
        "group_name": "Fitness Motivational", 
        "group_icon":"", 
        "wallpapers":  [
-          {
-           "wallpaper_index":"1",
-           "wallpaper_name":"Fitness",
-           "wallpaper_site_name":"Google",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":""
-          },
-		  {
-           "wallpaper_index":"1",
-           "wallpaper_name":"Fitness",
-           "wallpaper_site_name":"Google.com",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":""
-          },
-		  {
-           "wallpaper_index":"1",
-           "wallpaper_name":"Fitness",
-           "wallpaper_site_name":"Google.com",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":""
-          }
-      ]
+          {"wallpaper_index":"01", "wallpaper_name":"Fitness Motivational", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/FXpmbxC/quotes-1.jpg" }, 
+          {"wallpaper_index":"02", "wallpaper_name":"Fitness Motivational", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/V2PYHRb/001-36.jpg" },
+		  {"wallpaper_index":"03", "wallpaper_name":"Fitness Motivational", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/c87Pjw7/crop-17.jpg" },
+		  {"wallpaper_index":"04", "wallpaper_name":"Fitness Motivational", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/Cnrxbf1/001-32.jpg" },
+		  {"wallpaper_index":"05", "wallpaper_name":"Fitness Motivational", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/XjcdGbL/001-15.jpg" },
+		  {"wallpaper_index":"06", "wallpaper_name":"Fitness Motivational", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/st6TPg5/001-13.jpg" }, 
+          {"wallpaper_index":"07", "wallpaper_name":"Fitness Motivational", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/zNGNxfY/001-12.jpg" },
+		  {"wallpaper_index":"08", "wallpaper_name":"Fitness Motivational", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/g3jmyp7/001-10.jpg" },
+		  {"wallpaper_index":"09", "wallpaper_name":"Fitness Motivational", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/r3px9G0/001-9.jpg" }
+
+	  ]
       },
 	  
 	  {
-       "group_index": "5", 
+       "group_index": "6", 
        "group_name": "Funny", 
        "group_icon":"", 
        "wallpapers":  [
-          {
-           "wallpaper_index":"1",
-           "wallpaper_name":"Fitness",
-           "wallpaper_site_name":"Google",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":""
-          },
-		  {
-           "wallpaper_index":"1",
-           "wallpaper_name":"Fitness",
-           "wallpaper_site_name":"Google.com",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":""
-          },
-		  {
-           "wallpaper_index":"1",
-           "wallpaper_name":"Fitness",
-           "wallpaper_site_name":"Google.com",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":""
-          }
-      ]
+         {"wallpaper_index":"01", "wallpaper_name":"", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/w0ZVxGr/funny-1.jpg" }, 
+         {"wallpaper_index":"02", "wallpaper_name":"", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/NtQzySv/funny-2.jpg" }, 
+	     {"wallpaper_index":"03", "wallpaper_name":"", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/dbdQdXz/funny-3.jpg" }, 
+         {"wallpaper_index":"04", "wallpaper_name":"", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/8grRc5Q/funny-4.jpg" }, 
+	     {"wallpaper_index":"05", "wallpaper_name":"", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/7Qk7dMp/funny-5.jpg" }, 
+         {"wallpaper_index":"06", "wallpaper_name":"", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/MNTwmt1/funny-6.jpg" }, 
+	     {"wallpaper_index":"07", "wallpaper_name":"", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/MCwcCrn/funny-7.jpg" }, 
+		 {"wallpaper_index":"08", "wallpaper_name":"", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/d7j6gTw/funny-8.jpg" }, 
+         {"wallpaper_index":"09", "wallpaper_name":"", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/7nr2mgr/funny-9.jpg" }, 
+	     {"wallpaper_index":"10", "wallpaper_name":"", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/xX91Whg/funny-10.jpg" },
+         {"wallpaper_index":"11", "wallpaper_name":"", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/sm95S13/funny-11.jpg" }, 
+		 {"wallpaper_index":"12", "wallpaper_name":"", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/0f5DQQM/funny-12.jpg" }
+ 
+	  
+	  ]
       },
 	  
 	  {
-       "group_index": "6", 
+       "group_index": "7", 
        "group_name": "Goals", 
        "group_icon":"", 
        "wallpapers":  [
-          {
-           "wallpaper_index":"1",
-           "wallpaper_name":"Fitness",
-           "wallpaper_site_name":"Google",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":""
-          },
-		  {
-           "wallpaper_index":"1",
-           "wallpaper_name":"Fitness",
-           "wallpaper_site_name":"Google.com",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":""
-          },
-		  {
-           "wallpaper_index":"1",
-           "wallpaper_name":"Fitness",
-           "wallpaper_site_name":"Google.com",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":""
-          }
-      ]
+          {"wallpaper_index":"01", "wallpaper_name":"Goals", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/RYQws0c/Goals-1.jpg" },
+		  {"wallpaper_index":"02", "wallpaper_name":"Goals", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/F518H9F/Goals-1.jpg" }, 
+		  {"wallpaper_index":"03", "wallpaper_name":"Goals", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/0jcwGN4/Goals-2.jpg" },
+		  {"wallpaper_index":"04", "wallpaper_name":"Goals", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/ZcJz1zG/Goals-3.jpg" }, 
+		  {"wallpaper_index":"05", "wallpaper_name":"Goals", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/N23ZqVG/Goals-4.jpg" },
+		  {"wallpaper_index":"06", "wallpaper_name":"Goals", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/0K9XcJ9/Goals-5.jpg" }, 
+		  {"wallpaper_index":"07", "wallpaper_name":"Goals", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/g4CJGGg/Goals-6.jpg" },
+		  {"wallpaper_index":"08", "wallpaper_name":"Goals", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/K7wpz3B/Goals-7.jpg" },
+		  {"wallpaper_index":"09", "wallpaper_name":"Goals", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/vmpS9k5/Goals-8.jpg" }, 
+		  {"wallpaper_index":"10", "wallpaper_name":"Goals", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/jMDx36r/Goals-9.jpg" },
+		  {"wallpaper_index":"11", "wallpaper_name":"Goals", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/j6p8HmH/Goals-10.jpg" }, 
+		  {"wallpaper_index":"12", "wallpaper_name":"Goals", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/sygHGHW/Goals-11.jpg" }
+		  
+     
+	 ]
       },
 	  
 	  {
-       "group_index": "6", 
+       "group_index": "8", 
+       "group_name": "Inspiring Wallpapers", 
+       "group_icon":"", 
+       "wallpapers":  [
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+	      {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+	      {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+	      {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+		  {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+	      {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+	      {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+	      {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+		  {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+	      {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+	      {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+	      {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+		  {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+	      {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+	      {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+	      {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+	      {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+	      {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+	      {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+	      {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+		  {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+	      {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+	      {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+	      {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+		  {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+	      {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+	      {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+	      {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+		  {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+	      {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+	      {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+	      {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+		  {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+	      {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+	      {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+	      {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+		  {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+	      {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+	      {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+	      {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+		  {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+	      {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+	      {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+	      {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+		  {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+	      {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+	      {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" },
+	      {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }, 
+          {"wallpaper_index":"", "wallpaper_name":"Inspiring Wallpapers", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"" }
+	  ]
+      },
+	  
+	  {
+       "group_index": "9", 
        "group_name": "Love", 
        "group_icon":"", 
        "wallpapers":  [
-          {
-           "wallpaper_index":"1",
-           "wallpaper_name":"Fitness",
-           "wallpaper_site_name":"Google",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":""
-          },
-		  {
-           "wallpaper_index":"1",
-           "wallpaper_name":"Fitness",
-           "wallpaper_site_name":"Google.com",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":""
-          },
-		  {
-           "wallpaper_index":"1",
-           "wallpaper_name":"Fitness",
-           "wallpaper_site_name":"Google.com",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":""
-          }
-      ]
+          {"wallpaper_index":"01", "wallpaper_name":"Love", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/HpM6VBN/Love-1.jpg" }, 
+          {"wallpaper_index":"02", "wallpaper_name":"Love", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/K2M3vMK/Love-2.jpg" },
+		  {"wallpaper_index":"03", "wallpaper_name":"Love", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/P5b3ZCZ/Love-3.jpg" }, 
+          {"wallpaper_index":"04", "wallpaper_name":"Love", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/kGmn3RZ/Love-4.jpg" },
+	      {"wallpaper_index":"05", "wallpaper_name":"Love", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/7pWL0ZR/Love-5.jpg" }, 
+          {"wallpaper_index":"06", "wallpaper_name":"Love", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/RHtVTGC/Love-6.jpg" }
+	   
+	  ]
       },
 	  
 	  {
-       "group_index": "6", 
+       "group_index": "10", 
        "group_name": "Minimal Motivational", 
        "group_icon":"", 
        "wallpapers":  [
-          {
-           "wallpaper_index":"1",
-           "wallpaper_name":"Fitness",
-           "wallpaper_site_name":"Google",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":""
-          },
-		  {
-           "wallpaper_index":"1",
-           "wallpaper_name":"Fitness",
-           "wallpaper_site_name":"Google.com",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":""
-          },
-		  {
-           "wallpaper_index":"1",
-           "wallpaper_name":"Fitness",
-           "wallpaper_site_name":"Google.com",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":""
-          }
-      ]
+          {"wallpaper_index":"01", "wallpaper_name":"Minimal Motivational", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/jrL4ddf/minimal-1.jpg" }, 
+          {"wallpaper_index":"02", "wallpaper_name":"Minimal Motivational", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/0G3Gz2H/minimal-2.jpg" }, 
+	      {"wallpaper_index":"03", "wallpaper_name":"Minimal Motivational", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/kMLbYTt/minimal-3.jpg" }, 
+	      {"wallpaper_index":"04", "wallpaper_name":"Minimal Motivational", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/JvBrHB4/minimal-4.jpg" }, 
+	      {"wallpaper_index":"05", "wallpaper_name":"Minimal Motivational", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/bvsT64c/minimal-5.jpg" }
+	  ]
       },
-	  
-	  
-	  
-	  
-	  
-	  
-	  
-	  
-	  
-	  
-	  
-	  
-	  
-	  
-	  
-	  
-	  
-	  
-	  
-	  
-	  
-	  
 	  
 	  {
-       "group_index": "3", 
-       "group_name": "POKEMON", 
-       "group_icon":"https://i.ibb.co/rGXwjnN/Pokemon-01.jpg", 
-       "wallpapers": 
-      [
-          {
-           "wallpaper_index":"1",
-           "wallpaper_name":"Pokemon 01",
-           "wallpaper_site_name":"Google",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":"https://i.ibb.co/rGXwjnN/Pokemon-01.jpg"
-          },
-		  {
-           "wallpaper_index":"3",
-           "wallpaper_name":"Pokemon ",
-           "wallpaper_site_name":"Google",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":"https://i.ibb.co/xjpHGmq/Pokemon-02.jpg"
-          },
-		  {
-           "wallpaper_index":"3",
-           "wallpaper_name":"Pokemon ",
-           "wallpaper_site_name":"Google",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":"https://i.ibb.co/wpcvDJD/Pokemon-03.jpg"
-          },
-		  {
-           "wallpaper_index":"3",
-           "wallpaper_name":"Pokemon ",
-           "wallpaper_site_name":"Google",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":"https://i.ibb.co/D5gh9yQ/Pokemon-04.jpg"
-          },
-		  {
-           "wallpaper_index":"3",
-           "wallpaper_name":"Pokemon ",
-           "wallpaper_site_name":"Google",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":"https://i.ibb.co/RzrNX68/Pokemon-05.jpg"
-          },
-		  {
-           "wallpaper_index":"3",
-           "wallpaper_name":"Pokemon ",
-           "wallpaper_site_name":"Google",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":"https://i.ibb.co/QDRRcxC/Pokemon-06.jpg"
-          },
-		  {
-           "wallpaper_index":"3",
-           "wallpaper_name":"Pokemon ",
-           "wallpaper_site_name":"Google",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":"https://i.ibb.co/TqTxM0H/Pokemon-07.jpg"
-          },
-		  {
-           "wallpaper_index":"3",
-           "wallpaper_name":"Pokemon ",
-           "wallpaper_site_name":"Google",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":"https://i.ibb.co/khVb93W/Pokemon-08.jpg"
-          },
-		  {
-           "wallpaper_index":"3",
-           "wallpaper_name":"Pokemon ",
-           "wallpaper_site_name":"Google",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":"https://i.ibb.co/GFLLXfB/Pokemon-09.jpg"
-          },
-		  {
-           "wallpaper_index":"3",
-           "wallpaper_name":"Pokemon ",
-           "wallpaper_site_name":"Google",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":"https://i.ibb.co/jD2ZwD5/Pokemon-10.jpg"
-          },
-		  {
-           "wallpaper_index":"3",
-           "wallpaper_name":"Pokemon ",
-           "wallpaper_site_name":"Google",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":"https://i.ibb.co/2MNR7XC/Pokemon-12.jpg"
-          },
-		  {
-           "wallpaper_index":"3",
-           "wallpaper_name":"Pokemon ",
-           "wallpaper_site_name":"Google",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":"https://i.ibb.co/6RVdWsT/Pokemon-11.jpg"
-          },
-		  {
-           "wallpaper_index":"3",
-           "wallpaper_name":"Pokemon ",
-           "wallpaper_site_name":"Google",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":"https://i.ibb.co/dGGb3KS/Pokemon-13.jpg"
-          },
-		  {
-           "wallpaper_index":"3",
-           "wallpaper_name":"Pokemon ",
-           "wallpaper_site_name":"Google",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":"https://i.ibb.co/frcm3NW/Pokemon-14.jpg"
-          },
-		  {
-           "wallpaper_index":"3",
-           "wallpaper_name":"Pokemon ",
-           "wallpaper_site_name":"Google",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":"https://i.ibb.co/68dNFdh/Pokemon-15.jpg"
-          },
-		  {
-           "wallpaper_index":"3",
-           "wallpaper_name":"Pokemon ",
-           "wallpaper_site_name":"Google",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":"https://i.ibb.co/rf6m5Rr/Pokemon-16.jpg"
-          },
-		  {
-           "wallpaper_index":"3",
-           "wallpaper_name":"Pokemon ",
-           "wallpaper_site_name":"Google",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":"https://i.ibb.co/mbZsR7y/Pokemon-17.jpg"
-          },
-		  {
-           "wallpaper_index":"3",
-           "wallpaper_name":"Pokemon ",
-           "wallpaper_site_name":"Google",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":"https://i.ibb.co/F6hD0pX/Pokemon-18.jpg"
-          },
-		  {
-           "wallpaper_index":"3",
-           "wallpaper_name":"Pokemon ",
-           "wallpaper_site_name":"Google",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":"https://i.ibb.co/DVbxpx3/Pokemon-19.jpg"
-          },
-		  {
-           "wallpaper_index":"3",
-           "wallpaper_name":"Pokemon ",
-           "wallpaper_site_name":"Google",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":"https://i.ibb.co/q0zqKG3/Pokemon-20.jpg"
-          },
-		  {
-           "wallpaper_index":"3",
-           "wallpaper_name":"Pokemon ",
-           "wallpaper_site_name":"Google",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":"https://i.ibb.co/J3pqQr0/Pokemon-21.jpg"
-          },
-		  {
-           "wallpaper_index":"3",
-           "wallpaper_name":"Pokemon ",
-           "wallpaper_site_name":"Google",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":"https://i.ibb.co/YXjvMGT/Pokemon-22.jpg"
-          },
-		  {
-           "wallpaper_index":"3",
-           "wallpaper_name":"Pokemon ",
-           "wallpaper_site_name":"Google",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":"https://i.ibb.co/L5pd9XV/Pokemon-23.jpg"
-          },
-		  {
-           "wallpaper_index":"3",
-           "wallpaper_name":"Pokemon ",
-           "wallpaper_site_name":"Google",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":"https://i.ibb.co/SrL83zR/Pokemon-24.jpg"
-          },
-		  {
-           "wallpaper_index":"3",
-           "wallpaper_name":"Pokemon ",
-           "wallpaper_site_name":"Google",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":"https://i.ibb.co/MRrwZrS/Pokemon-25.jpg"
-          },
-		  {
-           "wallpaper_index":"3",
-           "wallpaper_name":"Pokemon ",
-           "wallpaper_site_name":"Google",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":"https://i.ibb.co/YRy0HyP/Pokemon-26.jpg"
-          },
-		  {
-           "wallpaper_index":"3",
-           "wallpaper_name":"Pokemon ",
-           "wallpaper_site_name":"Google",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":"https://i.ibb.co/S69LcHh/Pokemon-27.jpg"
-          },
-		  {
-           "wallpaper_index":"3",
-           "wallpaper_name":"Pokemon ",
-           "wallpaper_site_name":"Google",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":"https://i.ibb.co/ZfDkdmR/Pokemon-28.jpg"
-          },
-		  {
-           "wallpaper_index":"3",
-           "wallpaper_name":"Pokemon ",
-           "wallpaper_site_name":"Google",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":"https://i.ibb.co/k0g9Qn4/Pokemon-29.jpg"
-          },
-		  {
-           "wallpaper_index":"3",
-           "wallpaper_name":"Pokemon ",
-           "wallpaper_site_name":"Google",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":"https://i.ibb.co/kJfKKMY/Pokemon-30.jpg"
-          },
-		  {
-           "wallpaper_index":"3",
-           "wallpaper_name":"Pokemon ",
-           "wallpaper_site_name":"Google",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":"https://i.ibb.co/ByG2Zr5/Pokemon-31.jpg"
-          },
-		  {
-           "wallpaper_index":"3",
-           "wallpaper_name":"Pokemon ",
-           "wallpaper_site_name":"Google",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":"https://i.ibb.co/K9F6SKv/Pokemon-32.jpg"
-          },
-		  {
-           "wallpaper_index":"3",
-           "wallpaper_name":"Pokemon ",
-           "wallpaper_site_name":"Google",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":"https://i.ibb.co/THHTCNN/Pokemon-33.jpg"
-          },
-		  {
-           "wallpaper_index":"3",
-           "wallpaper_name":"Pokemon ",
-           "wallpaper_site_name":"Google",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":"https://i.ibb.co/L0sYbgv/Pokemon-34.jpg"
-          },
-		  {
-           "wallpaper_index":"3",
-           "wallpaper_name":"Pokemon ",
-           "wallpaper_site_name":"Google",
-           "wallpaper_site_url":"Google.com",
-           "wallpaper_url":"https://i.ibb.co/j4frnHP/Pokemon-35.jpg"
-          }
-      ]
+       "group_index": "11", 
+       "group_name": "Other", 
+       "group_icon":"", 
+       "wallpapers":  [
+          {"wallpaper_index":"01", "wallpaper_name":"Other", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/KLYKB0x/Other-1.jpg" }, 
+          {"wallpaper_index":"02", "wallpaper_name":"Other", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/m0yz38s/Other-2.jpg" }, 
+	      {"wallpaper_index":"03", "wallpaper_name":"Other", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/qCXrXJD/Other-3.jpg" }, 
+	      {"wallpaper_index":"04", "wallpaper_name":"Other", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/dcdd1ZY/Other-4.jpg" }, 
+          {"wallpaper_index":"05", "wallpaper_name":"Other", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/SKvxfdn/Other-5.jpg" }, 
+	      {"wallpaper_index":"06", "wallpaper_name":"Other", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/k3X2Mrs/Other-6.jpg" }, 
+	      {"wallpaper_index":"07", "wallpaper_name":"Other", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/tzPmJhP/Other-7.jpg" }, 
+          {"wallpaper_index":"08", "wallpaper_name":"Other", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/7QWdgvR/Other-8.jpg" }
+
+	  ]
       },
-	 
-	 {
-       "group_index": "2", 
-       "group_name": "MINIMAL", 
-       "group_icon":"http://dopewallpapers.website/codex_dopewall_upload/upload/category/1691-2019-02-10.jpg", 
-       "wallpapers": 
-      [
-          {
-           "wallpaper_index":"1",
-           "wallpaper_name":"MINIMAL 01",
-           "wallpaper_site_name":"DOPEWALLPAPERS",
-           "wallpaper_site_url":"dopewallpapers.website",
-           "wallpaper_url":"http://dopewallpapers.website/codex_dopewall_upload/upload/14908_20.jpg"
-          }
-		  ,
-		  {
-           "wallpaper_index":"2",
-           "wallpaper_name":"MINIMAL 02",
-           "wallpaper_site_name":"DOPEWALLPAPERS",
-           "wallpaper_site_url":"dopewallpapers.website",
-           "wallpaper_url":"http://dopewallpapers.website/codex_dopewall_upload/upload/45458_21.jpg"
-          }
-          ,
-          {
-           "wallpaper_index":"3",
-           "wallpaper_name":"MINIMAL 03",
-           "wallpaper_site_name":"DOPEWALLPAPERS",
-           "wallpaper_site_url":"dopewallpapers.website",
-           "wallpaper_url":"http://dopewallpapers.website/codex_dopewall_upload/upload/45418_2016%20-%203.jpg"
-          }
-          ,
-          {
-           "wallpaper_index":"4",
-           "wallpaper_name":"MINIMAL 04",
-           "wallpaper_site_name":"DOPEWALLPAPERS",
-           "wallpaper_site_url":"dopewallpapers.website",
-           "wallpaper_url":"http://dopewallpapers.website/codex_dopewall_upload/upload/63718_2016%20-%202.jpg"
-          }
-          ,
-          {
-           "wallpaper_index":"5",
-           "wallpaper_name":"MINIMAL 05",
-           "wallpaper_site_name":"DOPEWALLPAPERS",
-           "wallpaper_site_url":"dopewallpapers.website",
-           "wallpaper_url":"http://dopewallpapers.website/codex_dopewall_upload/upload/48639_2016%20-%201.jpg"
-          }
-          ,
-          {
-           "wallpaper_index":"6",
-           "wallpaper_name":"MINIMAL 06",
-           "wallpaper_site_name":"DOPEWALLPAPERS",
-           "wallpaper_site_url":"dopewallpapers.website",
-           "wallpaper_url":"http://dopewallpapers.website/codex_dopewall_upload/upload/75438_17%20-%203.png"
-          }
-          ,
-          {
-           "wallpaper_index":"7",
-           "wallpaper_name":"MINIMAL 07",
-           "wallpaper_site_name":"DOPEWALLPAPERS",
-           "wallpaper_site_url":"dopewallpapers.website",
-           "wallpaper_url":"http://dopewallpapers.website/codex_dopewall_upload/upload/96482_16%20-%203.png"
-          }
-          ,{
-           "wallpaper_index":"8",
-           "wallpaper_name":"MINIMAL 08",
-           "wallpaper_site_name":"DOPEWALLPAPERS",
-           "wallpaper_site_url":"dopewallpapers.website",
-           "wallpaper_url":"http://dopewallpapers.website/codex_dopewall_upload/upload/22285_16%20-%201.png"
-          }
-          ,{
-           "wallpaper_index":"9",
-           "wallpaper_name":"MINIMAL 09",
-           "wallpaper_site_name":"DOPEWALLPAPERS",
-           "wallpaper_site_url":"dopewallpapers.website",
-           "wallpaper_url":"http://dopewallpapers.website/codex_dopewall_upload/upload/20089_@Venkatesh_Sompari_Walls@_01.jpg"
-          }
-      ]
+	  
+	  {
+       "group_index": "12", 
+       "group_name": "Sad", 
+       "group_icon":"", 
+       "wallpapers":  [
+          {"wallpaper_index":"01", "wallpaper_name":"Sad", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/Nt3tF22/Sad-1.jpg" }, 
+          {"wallpaper_index":"02", "wallpaper_name":"Sad", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/FKcttWD/Sad-2.jpg" }
+	  ]
+      },
+	  
+	  {
+       "group_index": "13", 
+       "group_name": "Saying by Famous People", 
+       "group_icon":"", 
+       "wallpapers":  [
+          {"wallpaper_index":"02", "wallpaper_name":"Saying by Famous People", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/JQS6NY4/Saying-2.jpg" },
+          {"wallpaper_index":"02", "wallpaper_name":"Saying by Famous People", "wallpaper_site_name":"Google", "wallpaper_site_url":"Google.com", "wallpaper_url":"https://i.ibb.co/CVjjSLt/Saying-1.jpg" }
+	  ]
       }
+
 ]

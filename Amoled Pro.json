@@ -8,8 +8,8 @@
 },
 {
       "name": "Abstract",
-      "preview_url": "",
-      "preview_thumbnail_url": ""
+      "preview_url": "https://raw.githubusercontent.com/jahirfiquitiva/Website-Resources/master/wallpapers/unsplash_a.png",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/jahirfiquitiva/Website-Resources/master/wallpapers/thumbnails/unsplash_a.png"
 },
 {
       "name": "Alphabets",
@@ -17,7 +17,7 @@
       "preview_thumbnail_url": ""
 },
 {
-      "collections": "Amoled Flowers",
+      "name": "Amoled Flowers",
       "preview_url": "https://i.ibb.co/swHd8mF/Amoled-Flowers.jpg",
       "preview_thumbnail_url": "https://i.ibb.co/swHd8mF/Amoled-Flowers.jpg"
 },

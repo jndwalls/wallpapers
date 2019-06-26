@@ -127,6 +127,11 @@
       "preview_thumbnail_url": ""
 },
 {
+      "name": "Superheroes",
+      "preview_url": "",
+      "preview_thumbnail_url": ""
+},
+{
       "name": "Stock Wall",
       "preview_url": "",
       "preview_thumbnail_url": ""
@@ -156,7 +161,7 @@
 {"author": "","url": "https://drive.google.com/uc?id=1ujRymYKrx3loHw-IvxgMinQzXNx1gltC","thumbUrl": "https://drive.google.com/uc?id=1ZijSpY6986H9twNwsqMt-mmZofg5hyah","name": "Drink","collections": "Food And Drinks"},      
 {"author": "","url": "https://drive.google.com/uc?id=17Aw-RCOzaNEYHQBWqV_BAypjxiDZQbq5","thumbUrl": "https://drive.google.com/uc?id=1HTj-Z1RHE8OLg_v3PawCUn9n9tSAdr-d","name": "Ronaldo","collections": "Sports"},
 {"author": "","url": "https://drive.google.com/uc?id=1stLqg18UdjYGX8hJCyTOayrxI0NnMGoR","thumbUrl": "https://drive.google.com/uc?id=1Idj3rPUhs77ITbCUwD_0ST7PGE29WR3V","name": "Suzuki-boulevard","collections": "Bike and Cars"},
-{"author": "","url": "https://drive.google.com/uc?id=1Ba3CIzE5Kw81lCtfydAgDVRUmYdliGrt","thumbUrl": "https://drive.google.com/uc?id=1J2rjTq7I4ihduxxZ5hM945oc-75HIpVU","name": "Thanos-gauntlet-","collections": "Movies"},      
+{"author": "","url": "https://drive.google.com/uc?id=1Ba3CIzE5Kw81lCtfydAgDVRUmYdliGrt","thumbUrl": "https://drive.google.com/uc?id=1J2rjTq7I4ihduxxZ5hM945oc-75HIpVU","name": "Thanos-gauntlet-","collections": "Movies,Superheroes"},      
 {"author": "","url": "https://drive.google.com/uc?id=1VqF5gBS7HF9WdLyTv5ThpsQGkuO-VX5_","thumbUrl": "https://drive.google.com/uc?id=11DfgxB989gZ2Ba4SPLtRrgT7YsndWK_f","name": "Ronaldo","collections": "Sports"},
 {"author": "","url": "https://drive.google.com/uc?id=1jXmAw3UK65JIlQghZ4i3p3bm28e8d1xd","thumbUrl": "https://drive.google.com/uc?id=1-8DoeaVR_9sUl_ukn1Mu9hA603JRBCsv","name": "Too-much","collections": "Typography"},      
 {"author": "","url": "https://drive.google.com/uc?id=1vckHnH7kpPF9GHLiJS69IsjOv-FqNqTi","thumbUrl": "https://drive.google.com/uc?id=1nFIoEO-cEM7UmwWl1xOhXjiFCxAbFpFs","name": "Trapcity","collections": "Typography"},

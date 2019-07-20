@@ -77,6 +77,11 @@
       "preview_thumbnail_url": ""
 },
 {
+      "name": "Games",
+      "preview_url": "",
+      "preview_thumbnail_url": ""
+},
+{
       "name": "Logos",
       "preview_url": "",
       "preview_thumbnail_url": ""
@@ -159,10 +164,10 @@
 [
 
       
-{"author": "","url": "https://drive.google.com/uc?id=1c4rl69X4cuZ6A1Lxs6CtXoAfxEKyOJeN","thumbUrl": "https://drive.google.com/uc?id=1ZtnLyczGyQrK2qwdRGqQSaRf50f-_i9S","name": "Pubg","category": "Typography,Other"},
+{"author": "","url": "https://drive.google.com/uc?id=1c4rl69X4cuZ6A1Lxs6CtXoAfxEKyOJeN","thumbUrl": "https://drive.google.com/uc?id=1ZtnLyczGyQrK2qwdRGqQSaRf50f-_i9S","name": "Pubg","category": "Typography,Games,Other"},
 {"author": "","url": "https://drive.google.com/uc?id=1LEbKXxCufxHFJtEUCq363MYfxHiJ_8W4","thumbUrl": "https://drive.google.com/uc?id=1hl-nhwq7e_4piQVmHw9E8HjYkj6dbKrM","name": "skull","category": "Other"},
-{"author": "","url": "https://drive.google.com/uc?id=16HkjDYib4ZVYxS9a9kHlgZTfSyf0Ouao","thumbUrl": "https://drive.google.com/uc?id=1wtAyhQ2ISIRKUit_Zh1H2dxQwK2PweBh","name": "Pubg","category": "Typography,Other"},
-{"author": "","url": "https://drive.google.com/uc?id=10n9CAkRogdTNV4JPuSFyFrzl4lBcT50S","thumbUrl": "https://drive.google.com/uc?id=1K1VgXnoWBFdHX1yEhOnCijBMSURqBtH7","name": "Pubg","category": "Other"},      
+{"author": "","url": "https://drive.google.com/uc?id=16HkjDYib4ZVYxS9a9kHlgZTfSyf0Ouao","thumbUrl": "https://drive.google.com/uc?id=1wtAyhQ2ISIRKUit_Zh1H2dxQwK2PweBh","name": "Pubg","category": "Typography,Games,Other"},
+{"author": "","url": "https://drive.google.com/uc?id=10n9CAkRogdTNV4JPuSFyFrzl4lBcT50S","thumbUrl": "https://drive.google.com/uc?id=1K1VgXnoWBFdHX1yEhOnCijBMSURqBtH7","name": "Pubg","category": "Other,Games"},      
 {"author": "","url": "https://drive.google.com/uc?id=1FB-kU3uLDUPRQoypNxnP7QfwJhSlJsuz","thumbUrl": "https://drive.google.com/uc?id=1wpSwUOx8d-7PE7JY94IUXiHUm2C9b0Yb","name": "Astronaut","category": "Space"},
 {"author": "","url": "https://drive.google.com/uc?id=1XrD-NODc5QNnTmVRykwOUB8_GBatsHxv","thumbUrl": "https://drive.google.com/uc?id=1HjIlFYCfuq7AgMclW3-GFbQCrRpiRILt","name": "Horse","category": "Animals And Birds"},
 {"author": "","url": "https://drive.google.com/uc?id=19KJ9M1m-mCVyc0xElPNlUTvTELH_o4u_","thumbUrl": "https://drive.google.com/uc?id=18lmGG9EY705plnCXnEBK4E0bndVlUEOZ","name": "Cat","category": "Animals And Birds"},

@@ -1,166 +1,40 @@
 {
 "Collections": 
 [
-{
-      "name": "4K",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
-},
-{
-      "name": "Abstract",
-      "preview_url": "",
-      "preview_thumbnail_url": ""
-},
-{
-      "name": "Alphabets",
-      "preview_url": "",
-      "preview_thumbnail_url": ""
-},
-{
-      "name": "Amoled Flowers",
-      "preview_url": "",
-      "preview_thumbnail_url": ""
-},
-{
-      "name": "Amoled Nexus",
-      "preview_url": "",
-      "preview_thumbnail_url": ""
-},
-{
-      "name": "Animals And Birds",
-      "preview_url": "",
-      "preview_thumbnail_url": ""
-},
-{
-      "name": "Anime And Cartoon",
-      "preview_url": "",
-      "preview_thumbnail_url": ""
-},
-{
-      "name": "Architecture and Cityscape",
-      "preview_url": "",
-      "preview_thumbnail_url": ""
-},
-{
-      "name": "Artistic",
-      "preview_url": "",
-      "preview_thumbnail_url": ""
-},
-{
-      "name": "Bike and Cars",
-      "preview_url": "",
-      "preview_thumbnail_url": ""
-},
-{
-      "name": "Dope",
-      "preview_url": "",
-      "preview_thumbnail_url": ""
-},
-{
-      "name": "Fire",
-      "preview_url": "",
-      "preview_thumbnail_url": ""
-},
-{
-      "name": "Fishes",
-      "preview_url": "",
-      "preview_thumbnail_url": ""
-},
-{
-      "name": "Flowers",
-      "preview_url": "",
-      "preview_thumbnail_url": ""
-},
-{
-      "name": "Food And Drinks",
-      "preview_url": "",
-      "preview_thumbnail_url": ""
-},
-{
-      "name": "Games",
-      "preview_url": "",
-      "preview_thumbnail_url": ""
-},
-{
-      "name": "Logos",
-      "preview_url": "",
-      "preview_thumbnail_url": ""
-},
-{
-      "name": "Minimal",
-      "preview_url": "",
-      "preview_thumbnail_url": ""
-},
-{
-      "name": "Movies",
-      "preview_url": "",
-      "preview_thumbnail_url": ""
-},
-{
-      "name": "Nature",
-      "preview_url": "",
-      "preview_thumbnail_url": ""
-},
-{
-      "name": "Other",
-      "preview_url": "",
-      "preview_thumbnail_url": ""
-},
-{
-      "name": "Patterns",
-      "preview_url": "",
-      "preview_thumbnail_url": ""
-},
-{
-      "name": "People",
-      "preview_url": "",
-      "preview_thumbnail_url": ""
-},
-{
-      "name": "Silhouette",
-      "preview_url": "",
-      "preview_thumbnail_url": ""
-},
-{
-      "name": "Smoke",
-      "preview_url": "",
-      "preview_thumbnail_url": ""
-},
-{
-      "name": "Space",
-      "preview_url": "",
-      "preview_thumbnail_url": ""
-},
-{
-      "name": "Sports",
-      "preview_url": "",
-      "preview_thumbnail_url": ""
-},
-{
-      "name": "Sunset",
-      "preview_url": "",
-      "preview_thumbnail_url": ""
-},
-{
-      "name": "Superheroes",
-      "preview_url": "",
-      "preview_thumbnail_url": ""
-},
-{
-      "name": "Stock Wall",
-      "preview_url": "",
-      "preview_thumbnail_url": ""
-},
-{
-      "name": "Typography",
-      "preview_url": "",
-      "preview_thumbnail_url": ""
-}
+{"name": "4K", "preview_url": "", "preview_thumbnail_url": ""},
+{"name": "Abstract", "preview_url": "", "preview_thumbnail_url": ""},
+{"name": "Alphabets","preview_url": "","preview_thumbnail_url": ""},
+{"name": "Amoled Flowers","preview_url": "","preview_thumbnail_url": ""},
+{"name": "Amoled Nexus","preview_url": "","preview_thumbnail_url": ""},
+{"name": "Animals And Birds","preview_url": "","preview_thumbnail_url": ""},
+{"name": "Anime And Cartoon","preview_url": "","preview_thumbnail_url": ""},
+{"name": "Architecture and Cityscape","preview_url": "","preview_thumbnail_url": ""},
+{"name": "Artistic","preview_url": "","preview_thumbnail_url": ""},
+{"name": "Bike and Cars","preview_url": "","preview_thumbnail_url": ""},
+{"name": "Dope","preview_url": "","preview_thumbnail_url": ""},
+{"name": "Fire","preview_url": "","preview_thumbnail_url": ""},
+{"name": "Fishes","preview_url": "","preview_thumbnail_url": ""},
+{"name": "Flowers","preview_url": "","preview_thumbnail_url": ""},
+{"name": "Food And Drinks","preview_url": "","preview_thumbnail_url": ""},
+{"name": "Games","preview_url": "","preview_thumbnail_url": ""},
+{"name": "Logos","preview_url": "","preview_thumbnail_url": ""},
+{"name": "Minimal","preview_url": "","preview_thumbnail_url": ""},
+{"name": "Movies","preview_url": "","preview_thumbnail_url": ""},
+{"name": "Nature","preview_url": "","preview_thumbnail_url": ""},
+{"name": "Other","preview_url": "","preview_thumbnail_url": ""},
+{"name": "Patterns","preview_url": "","preview_thumbnail_url": ""},
+{"name": "People","preview_url": "","preview_thumbnail_url": ""},
+{"name": "Silhouette","preview_url": "","preview_thumbnail_url": ""},
+{"name": "Smoke","preview_url": "","preview_thumbnail_url": ""},
+{"name": "Space","preview_url": "","preview_thumbnail_url": ""},
+{"name": "Sports","preview_url": "","preview_thumbnail_url": ""},
+{"name": "Sunset","preview_url": "","preview_thumbnail_url": ""},
+{"name": "Superheroes","preview_url": "","preview_thumbnail_url": ""},
+{"name": "Stock Wall","preview_url": "","preview_thumbnail_url": ""},
+{"name": "Typography","preview_url": "","preview_thumbnail_url": ""}
 ],
     
 "Wallpapers":
-
-
 [
 {"author": "Flower","url": "https://i.ibb.co/jJjhQ4h/Purple-Rose.png","thumbUrl": "https://i.ibb.co/KK86fy6/Purple-Rose.png","name": "Flower","category": "Amoled Flowers"},
 {"author": "Alphabet","url": "https://i.ibb.co/GxLhZ52/F-Latter-fire.jpg","name": "F Letter Fire","category": "Alphabets"},

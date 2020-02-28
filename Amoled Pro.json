@@ -37,7 +37,13 @@
 "Wallpapers":
 [
 
-    
+{"name": "Architecture","url": "https://i.ibb.co/VY5gwXb/architecture-2.jpg","thumbUrl": "https://i.ibb.co/jksyJ7q/architecture-2.jpg","category": "Architecture","author": "Architecture"},
+{"name": "Venom","url": "https://i.ibb.co/MGhCz7B/venom-152.png","thumbUrl": "https://i.ibb.co/gP7R0J4/venom-152.png","category": "Superheroes","author": "Superheroes"},
+{"name": "Abstract","url": "https://i.ibb.co/g4952VG/49593e1c50a5e41-a-nw-p.png","thumbUrl": "https://i.ibb.co/KKhMPwY/49593e1c50a5e41-a-nw-p.png","category": "Abstract","author": "Abstract"}, 
+{"name": "Random Shape","url": "https://i.ibb.co/rtFTKJm/RANDOM-SHAPES-MATERIALS-21.jpg","thumbUrl": "https://i.ibb.co/9vczmjN/RANDOM-SHAPES-MATERIALS-21.jpg","category": "Random Shapes","author": "Random Shapes"},
+{"name": "People","url": "https://i.ibb.co/WHZVwwR/Girl-Looking-through-Glass.jpg","thumbUrl": "https://i.ibb.co/L0mNWWs/Girl-Looking-through-Glass.jpg","category": "People","author": "People"},
+{"name": "Animals","url": "https://i.ibb.co/Yd0ZkSN/deer-fire.jpg","thumbUrl": "https://i.ibb.co/Zg2m8rf/deer-fire.jpg","category": "Animals And Birds","author": ""},
+{"name": "Amoled","url": "https://i.ibb.co/JysFL1D/01-343.jpg","thumbUrl": "https://i.ibb.co/b2KRh0c/01-343.jpg","category": "Other","author": "Other"},    
 {"name": "silhouette","url": "https://i.ibb.co/93S1qn4/silhouette-32.jpg","thumbUrl": "https://i.ibb.co/Pz0P5xW/silhouette-32.jpg","category": "Silhouette","author": "Silhouette"},
 {"name": "Flash","url": "https://i.ibb.co/tXWzNqY/the-flash-137.png","thumbUrl": "https://i.ibb.co/zJ0FLXP/the-flash-137.png","category": "Superheroes","author": "Superheroes"},
 {"name": "Nature","url": "https://i.ibb.co/zG4JXv0/1a4f643de527e3f-a-nw-p.jpg","thumbUrl": "https://i.ibb.co/kQS14CW/1a4f643de527e3f-a-nw-p.jpg","category": "Nature","author": "Nature"},
@@ -1570,13 +1576,6 @@
 {"name": "Animals","url": "https://i.ibb.co/k5rG6kk/Lion.jpg","thumbUrl": "https://i.ibb.co/wBbdr33/Lion.jpg","category": "Animals And Birds","author": ""},
 {"name": "Abstract","url": "https://i.ibb.co/R0bPQwW/01-428.jpg","thumbUrl": "https://i.ibb.co/qsj9mQw/01-428.jpg","category": "Abstract","author": "Abstract"}, 
 {"name": "Pattern","url": "https://i.ibb.co/WzkyfpV/Patterns-and-Materials-42.jpg","thumbUrl": "https://i.ibb.co/DM9CQgr/Patterns-and-Materials-42.jpg","category": "Patterns","author": "Patterns"},
-{"name": "Architecture","url": "https://i.ibb.co/VY5gwXb/architecture-2.jpg","thumbUrl": "https://i.ibb.co/jksyJ7q/architecture-2.jpg","category": "Architecture","author": "Architecture"},
-{"name": "Venom","url": "https://i.ibb.co/MGhCz7B/venom-152.png","thumbUrl": "https://i.ibb.co/gP7R0J4/venom-152.png","category": "Superheroes","author": "Superheroes"},
-{"name": "Abstract","url": "https://i.ibb.co/g4952VG/49593e1c50a5e41-a-nw-p.png","thumbUrl": "https://i.ibb.co/KKhMPwY/49593e1c50a5e41-a-nw-p.png","category": "Abstract","author": "Abstract"}, 
-{"name": "Random Shape","url": "https://i.ibb.co/rtFTKJm/RANDOM-SHAPES-MATERIALS-21.jpg","thumbUrl": "https://i.ibb.co/9vczmjN/RANDOM-SHAPES-MATERIALS-21.jpg","category": "Random Shapes","author": "Random Shapes"},
-{"name": "People","url": "https://i.ibb.co/WHZVwwR/Girl-Looking-through-Glass.jpg","thumbUrl": "https://i.ibb.co/L0mNWWs/Girl-Looking-through-Glass.jpg","category": "People","author": "People"},
-{"name": "Animals","url": "https://i.ibb.co/Yd0ZkSN/deer-fire.jpg","thumbUrl": "https://i.ibb.co/Zg2m8rf/deer-fire.jpg","category": "Animals And Birds","author": ""},
-{"name": "Amoled","url": "https://i.ibb.co/JysFL1D/01-343.jpg","thumbUrl": "https://i.ibb.co/b2KRh0c/01-343.jpg","category": "Other","author": "Other"},
 {"name": "Minimal","url": "https://i.ibb.co/SJn1x1r/01-410.png","thumbUrl": "https://i.ibb.co/N7jk3kS/01-410.png","category": "Minimal","author": "Minimal"},
 {"url": "https://i.ibb.co/Q8ZcM1M/Love.jpg","name": "love","category": "Amoled Nexus,Minimal"},
 {"name": "silhouette","url": "https://i.ibb.co/MGGrt09/silhouette-101.jpg","thumbUrl": "https://i.ibb.co/X331KRV/silhouette-101.jpg","category": "Silhouette","author": "Silhouette"},

@@ -36,9 +36,12 @@
     
 "Wallpapers":
 [
-{"url": "https://i.imgur.com/k2l7j0Z.jpg","thumbUrl": "https://i.imgur.com/k2l7j0Z.jpgl","name": "Abstract 3D","category": "Abstract"},
-{"url": "https://i.imgur.com/k2l7j0Z.jpg","thumbUrl": "https://i.imgur.com/k2l7j0Z.jpgl","name": "Abstract 3D","category": "Abstract"},
-{"name": "Nature","url": "https://i.ibb.co/tYR1ZwH/01-240.jpg","thumbUrl": "https://i.ibb.co/HGZ9NLK/01-240.jpg","category": "Nature","author": "Nature"},
+{"url": "https://i.imgur.com/k2l7j0Z.jpg","thumbUrl": "https://i.imgur.com/k2l7j0Zl.jpg","name": "Abstract 3D","category": "Abstract"},
+{"url": "https://i.imgur.com/k2l7j0Z.jpg","thumbUrl": "https://i.imgur.com/k2l7j0Zl.jpg","name": "Abstract 3D","category": "Abstract"},
+{"url": "https://i.imgur.com/EaNGmNB.jpg","thumbUrl": "https://i.imgur.com/EaNGmNBl.jpg","name": "Sparkles","category": "Abstract"},
+{"url": "https://i.imgur.com/x3mhOv0.jpg","thumbUrl": "https://i.imgur.com/x3mhOv0l.jpg","name": "Aurora","category": "Nature"},
+{"url": "https://i.imgur.com/p2Xkkm9.jpg","thumbUrl": "https://i.imgur.com/p2Xkkm9l.jpg","name": "Car","category": "Bike and Cars"},
+    {"name": "Nature","url": "https://i.ibb.co/tYR1ZwH/01-240.jpg","thumbUrl": "https://i.ibb.co/HGZ9NLK/01-240.jpg","category": "Nature","author": "Nature"},
 {"name": "Space","url": "https://i.ibb.co/KKNk4CJ/Space-m-2.jpg","thumbUrl": "https://i.ibb.co/wcJXGDf/Space-m-2.jpg","category": "Space","author": "Space"},
 {"name": "Architecture","url": "https://i.ibb.co/b1YRvKj/dubai-2018.jpg","thumbUrl": "https://i.ibb.co/sjcJ1Vp/dubai-2018.jpg","category": "Architecture","author": "Architecture"},
 {"name": "Nature","url": "https://i.ibb.co/vw4W6k6/waterdrop-diamond.jpg","thumbUrl": "https://i.ibb.co/7YtDdKd/waterdrop-diamond.jpg","category": "Nature","author": "Nature"},
